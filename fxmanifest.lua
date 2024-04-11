@@ -13,7 +13,3 @@ client_scripts {
 shared_scripts {
 	'config.lua'
 }
-
-escrow_ignore {
-    'config.lua'
-  }
